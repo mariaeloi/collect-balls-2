@@ -7,7 +7,7 @@ O jogo possui dois níveis e sempre ao concluir qualquer um deles, o jogador gan
 ### Objetivo
 Os dois níveis do jogo possuem o mesmo objetivo (alterando apenas a dificuldade dos obstáculos): coletar a quantidade indicada de bolas, 10, com a menor quantidade de quedas possível, e no menor tempo também.
 
-### Modeas x Checkpoints
+### Moedas x Checkpoints
 As moedas ganhas pelo jogador podem ser utilizadas nos níveis para marcar checkpoints. Cada checkpoint custa 100 moedas e é marcado de acordo com a posição do jogador naquele momento. É possível marcar checkpoint quantas vezes quiser em uma fase, porém somente a última marcação será leveada em cosideração.
 
 ### Persistência de dados
